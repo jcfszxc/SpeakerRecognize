@@ -25,6 +25,7 @@ python train.py
 
 Usage
 ---
+pretrained model: https://pan.baidu.com/s/1xadxtyt9YRB6WKN-FAN-jg jcfs
 ```python
 python SpeakerRecog.pyw
 ```
